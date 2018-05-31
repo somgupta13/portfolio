@@ -75,10 +75,6 @@ body {
     background-image: url("../images/c2.jpg");
   
   }
-  #bod5{
-  
-    background-image: url("../images/c3.jpg");
-  }
   .active {    background-color: #666;
 }
 .active, .nav:hover{
